@@ -77,3 +77,11 @@ h2o.init()
 ```
 
 from the R console.
+
+## Data
+
+We will try to cover two ML algorithms. For that we will use two different data sets, please be sure to download them before the workshop:
+
+- [Airlines data](https://raw.githubusercontent.com/h2oai/h2o-tutorials/master/tutorials/data/allyears2k.csv)
+- [Amazon Reviews](https://s3.amazonaws.com/tomk/h2o-world/megan/AmazonReviews.csv)
+- [Stopwords for NLP](https://raw.githubusercontent.com/h2oai/h2o-tutorials/master/h2o-world-2017/nlp/stopwords.csv)
