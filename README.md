@@ -75,6 +75,17 @@ install.packages("h2o", type="source", repos="http://h2o-release.s3.amazonaws.co
 # For more: http://h2o-release.s3.amazonaws.com/h2o/rel-lambert/5/docs-website/Ruser/Rinstall.html
 ```
 
+### Flow
+
+[Docs](http://docs.h2o.ai/h2o/latest-stable/h2o-docs/flow.html?highlight=flow)
+
+Download H2O
+
+```bash
+cd ~/Downloads/h2o-{version}
+java -jar h2o.jar
+```
+
 ## Check your dependencies
 
 - Check your Java version with `$ java -version` from the command line.
