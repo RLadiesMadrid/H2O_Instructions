@@ -116,3 +116,7 @@ We will try to cover two ML algorithms. For that we will use two different data 
 - [Airlines data](https://raw.githubusercontent.com/h2oai/h2o-tutorials/master/tutorials/data/allyears2k.csv)
 - [Amazon Reviews](https://s3.amazonaws.com/tomk/h2o-world/megan/AmazonReviews.csv)
 - [Stopwords for NLP](https://raw.githubusercontent.com/h2oai/h2o-tutorials/master/h2o-world-2017/nlp/stopwords.csv)
+
+## Code
+
+[Repository](https://github.com/RLadiesMadrid/H2O_Workshop)
